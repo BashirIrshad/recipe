@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class Recipe extends Component {
     render() {
 
-    
+        const ab = 23;
 
         const {
             title,
