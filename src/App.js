@@ -91,6 +91,9 @@ export default class App extends Component {
   displayPage(index){
 
     switch(index){
+
+
+      
       default: 
       case 1 : 
         return (<RecipeList 
